@@ -1,0 +1,13 @@
+Template:deepin-ui/release-note
+Type:note
+_Description: Deepin-UI(DTK) Release-Note
+ IMPORTANT READ CAREFULLY:
+ .
+ Please install the patched python-gtk2 to avoid memery leak.
+   You can download it from
+   http://packages.linuxdeepin.com/deepin/pool/main/p/pygtk/
+ .
+ We have send our patch to upstream:
+   gnome-bugs #674092
+   debbugs #668709
+   lp:981376

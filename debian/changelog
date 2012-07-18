@@ -1,0 +1,110 @@
+deepin-ui (1+git201207161102) precise; urgency=low
+
+  * Non-maintainer upload.
+  * move translation to system dir.
+
+ -- Yueqian Zhang <zhangyueqian@linuxdeepin.com>  Mon, 16 Jul 2012 11:01:57 +0800
+
+deepin-ui (1+git201207131728) precise; urgency=low
+
+  * upstream updates. 
+
+ -- Li Longyu <leaeasy@gmail.com>  Fri, 13 Jul 2012 17:29:40 +0800
+
+deepin-ui (1+git201207131504-1) precise; urgency=low
+
+  * fix translation display error bug
+
+ -- Li Longyu <leaeasy@gmail.com>  Fri, 13 Jul 2012 07:06:02 +0800
+
+deepin-ui (1+git201207130915-1) precise; urgency=low
+
+  * fix bugs that translation did not work.
+
+ -- Yueqian Zhang <zhangyueqian@linuxdeepin.com>  Fri, 13 Jul 2012 09:15:27 +0800
+
+deepin-ui (1+git20120712-1) precise; urgency=low
+
+  * Upstream update.
+
+ -- Yueqian Zhang <zhangyueqian@linuxdeepin.com>  Thu, 12 Jul 2012 20:18:33 +0800
+
+deepin-ui (1+git20120711-1) precise; urgency=low
+
+  * Upstream update.
+
+ -- Yueqian Zhang <zhangyueqian@linuxdeepin.com>  Wed, 11 Jul 2012 11:55:50 +0800
+
+deepin-ui (1+git20120621-1) precise; urgency=low
+
+  * Upstream update.
+
+ -- Li Longyu <leaeasy@gmail.com>  Thu, 21 Jun 2012 15:42:39 +0800
+
+deepin-ui (1+git20120606-2) precise; urgency=low
+
+  * Upstream update. 
+
+ -- Li Longyu <leaeasy@gmail.com>  Thu, 21 Jun 2012 15:40:47 +0800
+
+deepin-ui (1+git20120606-1) precise; urgency=low
+
+  * add deepin-ui-demo package
+  * add debconf file 
+
+ -- Li Longyu <leaeasy@gmail.com>  Wed, 06 Jun 2012 15:39:14 +0800
+
+deepin-ui (1+git20120605-4) precise; urgency=low
+
+  * add deepin-ui-demo
+  * add debian/NEWS file
+
+ -- Li Longyu <leaeasy@gmail.com>  Wed, 06 Jun 2012 15:39:12 +0800
+
+deepin-ui (1+git20120605-3) precise; urgency=low
+
+  * add python-imaging depends  
+
+ -- Li Longyu <leaeasy@gmail.com>  Tue, 05 Jun 2012 14:38:41 +0800
+
+deepin-ui (1+git20120605-2) precise; urgency=low
+
+  *  Update treeview.py color. 
+
+ -- Li Longyu <leaeasy@gmail.com>  Tue, 05 Jun 2012 12:51:25 +0800
+
+deepin-ui (1+git20120605-1) precise; urgency=low
+
+  * Upstreamer updates.
+
+ -- Li Longyu <leaeasy@gmail.com>  Tue, 05 Jun 2012 10:08:15 +0800
+
+deepin-ui (1+git20120508-1) precise; urgency=low
+
+  * Upstreamer updates. 
+
+ -- Li Longyu <leaeasy@gmail.com>  Tue, 08 May 2012 14:50:57 +0800
+
+deepin-ui (1+git20120503-1) precise; urgency=low
+
+  * update menuitem. 
+
+ -- Li Longyu <leaeasy@gmail.com>  Thu, 03 May 2012 12:22:09 +0800
+
+deepin-ui (1+git20120502-1) precise; urgency=low
+
+  * Upstreamer updates.
+
+ -- Li Longyu <leaeasy@gmail.com>  Wed, 02 May 2012 14:35:25 +0800
+
+deepin-ui (1+git8c2442628-1) unstable; urgency=low
+
+  * Upstreamer updates.
+
+ -- Li Longyu <leaeasy@gmail.com>  Fri, 20 Apr 2012 16:50:25 +0800
+
+deepin-ui (1+git7430d0fb-1) unstable; urgency=low
+
+  * Initial release
+
+ -- Li Longyu <leaeasy@gmail.com>  Fri, 06 Apr 2012 12:34:55 +0800
